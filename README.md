@@ -5,7 +5,7 @@ I’m passionate about **AI/ML, Full-Stack Development, and Blockchain**, and I 
 
 ---
 <p align="center">
-  <img src="386745.jpg" alt="Pavan Kumar M" width="180" style="border-radius: 50%;">
+  <img src="386745.jpg" alt="Pavan Kumar M" width="180" style="border-radius: 100%;">
 </p>
 
 
