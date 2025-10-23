@@ -1,79 +1,71 @@
 # 👋 Hi, I'm Pavan Kumar M
+ 
+I’m passionate about **AI/ML, Full-Stack Development, and Blockchain**, and I love building applications that bridge innovation and real-world impact.  
 
-🎓 **Final Year B.E. Student (Computer Science & Engineering)**  
-💡 Passionate about **AI/ML, Full Stack Development, Blockchain, and Cloud Technologies**  
-🚀 Continuously learning, building, and contributing to open-source & hackathon projects.
-
----
-
-## 🧠 About Me
-
-I’m a Computer Science Engineering student skilled in **Python, Flask, Django, REST APIs**, and **SQL database management**.  
-I enjoy creating impactful software — from **AI-driven chatbots** to **blockchain-based decentralized apps** — and have hands-on experience through various **academic and hackathon projects**.  
-
-I believe in learning by building and contributing to solutions that make a difference.
 
 ---
 
-## 🧰 Tech Stack
+# 👨‍💻 About Me  
 
-**Languages:** Python, C, JavaScript, SQL  
-**Frameworks:** Flask, Django, Node.js  
-**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn  
-**Developer Tools:** VS Code, Postman, Google Cloud Platform  
-**Version Control:** Git, GitHub  
-**Operating Systems:** Linux, Ubuntu  
-**Other:** AWS, Azure, REST APIs, Cloud Computing
+I'm **Pavan Kumar M**, a **Computer Science and Engineering student** at *Sri Venkateshwara College of Engineering, Bengaluru*.  
+with a deep love for building smart applications that solve real-world problems. I enjoy diving into everything from full-stack development to deep learning and cloud infrastructure.
+---
+
+### 🔭 I’m currently working on:
+- 🪙 **Microloan DApp** – A decentralized lending & borrowing platform using Solidity and React.  
+- 🤖 **AI Chatbot Assistant** – NLP-based chatbot for academic query handling.  
+- 🧬 **Skin Cancer Detection System** – GAN-augmented CNN model with hybrid ANN-KNN.  
 
 ---
 
-## 🧩 Featured Projects
-
-### 🤖 AI Chatbot for Student Assistant System
-- Built using **Flask** and **NLP (NLTK, spaCy)** for automated academic query handling.  
-- Integrated **REST APIs**, SQL database, and **speech recognition** for real-time interaction.  
-
-### 💪 Gym Database Management System
-- Designed a **SQL-based system** to manage members, trainers, and payments.  
-- Implemented **role-based access** and analytics dashboards for reporting.
-
-### 🪙 Microloan DApp
-- Developed a **decentralized lending platform** using **Solidity, Hardhat, and React.js**.  
-- Enabled wallet integration via **Ethers.js & MetaMask** for secure peer-to-peer transactions.
-
-### 🧬 Skin Cancer Detection System
-- Built **GAN-augmented CNN + hybrid ANN-KNN** model for accurate detection.  
-- Used **Grad-CAM** for interpretability and advanced evaluation metrics.
+### 🌱 I’m focused on learning more about:
+- Advanced **Machine Learning & Deep Learning** techniques.  
+- **Cloud Computing & DevOps** (AWS, GCP, CI/CD).  
+- **Smart Contracts** and Web3 integration.  
 
 ---
 
-## 🏅 Achievements
-
-- 🥉 3rd Prize – **HACC VERSE Hackathon (24 Hours)**
-- 🏆 Finalist – **Smart India Hackathon (SIH)** & **IDEA Manthan**
-- 🥋 **Gold Medalist** – National Karate Championship  
-- 🥋 **National Referee & Instructor** – Running my own **Karate Academy**
-
----
-
-## 🎓 Certifications
-
-- Python Programming – Internshala / Great Learning  
-- Blockchain & Smart Contracts – Hackathon Project  
-- IBM SkillsBuild – Cloud Computing & Design Thinking  
-- Coursera – Data Analytics  
-- Infosys Springboard – NLP & IoT Fundamentals  
+### 💬 Ask me about:
+- 🐍 Python, Flask, and Django  
+- ⚙️ Full-Stack Web Development  
+- 🧠 Artificial Intelligence & Machine Learning  
+- 🔗 Blockchain and Smart Contracts  
 
 ---
 
-## 🌐 Connect With Me
-
+### 📫 How to reach me:
 📧 **Email:** [pavankumarm209@gmail.com](mailto:pavankumarm209@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/pavan-kumar-m-680b5b257](https://www.linkedin.com/in/pavan-kumar-m-680b5b257)  
 💻 **GitHub:** [github.com/PavanKumarM209](https://github.com/PavanKumarM209)
 
 ---
 
-⭐ **“Code. Learn. Inspire.”**  
-Thanks for visiting my profile — feel free to explore my repositories and connect!
+### ⚡ Fun fact:
+When I’m not coding, you’ll find me teaching **Karate 🥋**, exploring **AI trends 🤖**, or capturing moments through **photography 📸**!
+
+---
+
+## 🛠️ My Tech Stack  
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Languages** | C, Python, JavaScript, SQL |
+| **Frontend** | HTML, CSS, JavaScript, React.js |
+| **Backend** | Flask, Django, Node.js |
+| **Databases** | MySQL, SQLite |
+| **AI/ML** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **Blockchain** | Solidity, Hardhat, Ethers.js, MetaMask |
+| **Tools & Platforms** | Git, GitHub, Postman, Google Cloud, AWS, Azure, VS Code |
+| **Operating Systems** | Linux, Ubuntu |
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-m-680b5b257)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/PavanKumarM209)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:pavankumarm209@gmail.com)
+
+---
+
+⭐ *“Code with purpose, learn with passion, and build for impact.”*
 
