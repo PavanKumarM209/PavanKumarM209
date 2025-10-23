@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Pavan Kumar M
- 
-I’m passionate about **AI/ML, Full-Stack Development, and Blockchain**, and I love building applications that bridge innovation and real-world impact.  
 
+# 👋 Hi, I'm Pavan Kumar M
+
+I’m passionate about **AI/ML, Full-Stack Development, and Blockchain**, and I love building applications that bridge innovation and real-world impact.
 
 ---
-<!-- Banner Image -->
 <p align="center">
-  <img src="b7c6b3ce-ab83-4bad-90a1-58ab98e715b9.png" alt="Banner - Pavan Kumar M" width="100%" />
+  <img src="386745.jpg" alt="Pavan Kumar M" width="100%" />
 </p>
+
 
 
 # 👨‍💻 About Me  
 
 I'm **Pavan Kumar M**, a **Computer Science and Engineering student** at *Sri Venkateshwara College of Engineering, Bengaluru*.  
-with a deep love for building smart applications that solve real-world problems. I enjoy diving into everything from full-stack development to deep learning and cloud infrastructure.
+I have a deep love for building smart applications that solve real-world problems. I enjoy diving into everything from full-stack development to deep learning and cloud infrastructure.
+
 ---
 
 ### 🔭 I’m currently working on:
@@ -73,4 +74,3 @@ When I’m not coding, you’ll find me teaching **Karate 🥋**, exploring **AI
 ---
 
 ⭐ *“Code with purpose, learn with passion, and build for impact.”*
-
