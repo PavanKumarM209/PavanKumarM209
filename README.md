@@ -67,9 +67,18 @@ When I’m not coding, you’ll find me teaching **Karate 🥋**, exploring **AI
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-m-680b5b257)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/PavanKumarM209)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:pavankumarm209@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavan-kumar-m-680b5b257">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PavanKumarM209">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:pavankumarm209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
