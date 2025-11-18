@@ -43,7 +43,7 @@ I have a deep love for building smart applications that solve real-world problem
 📧 **Email:** [pavankumarm209@gmail.com](mailto:pavankumarm209@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/pavan-kumar-m-680b5b257](https://www.linkedin.com/in/pavan-kumar-m-680b5b257)  
 💻 **GitHub:** [github.com/PavanKumarM209](https://github.com/PavanKumarM209)
-📸 Instagram: [instagram.com/iampavan2204](https://www.instagram.com/iampavan2204?igsh=NHZsNXg4MXYxdzVv) 
+📸 **Instagram:** [instagram.com/iampavan2204](https://www.instagram.com/iampavan2204?igsh=NHZsNXg4MXYxdzVv) 
 
 
 ---
