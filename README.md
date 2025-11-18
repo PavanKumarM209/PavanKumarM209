@@ -55,12 +55,12 @@ When I’m not coding, you’ll find me teaching **Karate 🥋**, exploring **AI
 
 | **Category** | **Technologies** |
 |---------------|------------------|
-| **Languages** | C, Python, JavaScript, SQL |
+| **Programming Languages** | C, Python, JavaScript |
 | **Frontend** | HTML, CSS, JavaScript, React.js |
 | **Backend** | Flask, Django, Node.js |
 | **Databases** | MySQL, SQLite |
 | **AI/ML** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Blockchain** | Solidity, Hardhat, Ethers.js, MetaMask |
+| **Blockchain** | Solidity (Basics), Hardhat, Ethers.js, MetaMask |
 | **Tools & Platforms** | Git, GitHub, Postman, Google Cloud, AWS, Azure, VS Code |
 | **Operating Systems** | Linux, Ubuntu |
 
@@ -68,12 +68,14 @@ When I’m not coding, you’ll find me teaching **Karate 🥋**, exploring **AI
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavan-kumar-m-680b5b257">
+  <a href="https://www.linkedin.com/in/pavan-kumar-m-680b5b257" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/PavanKumarM209">
+
+  <a href="https://github.com/PavanKumarM209" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="mailto:pavankumarm209@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
   </a>
